@@ -16,4 +16,6 @@
 - ANANDITA TIARA NINGTYAS (23050974017)
 - BINTANG PRAYOGA (23050974026 )
 
+Taken from https://github.com/bernardoamorim7/simple-radio
+
 
