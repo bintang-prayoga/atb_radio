@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584005634967",
+    "project_id": "atb-ra",
+    "storage_bucket": "atb-ra.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584005634967:android:e0b080fc3250e367d252d2",
+        "android_client_info": {
+          "package_name": "com.atb_radio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeS8YTc2dmCCf1vqUDLfiMxDyxAbXt7Mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
